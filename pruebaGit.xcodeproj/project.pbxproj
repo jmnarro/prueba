@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		890390561CD6F25400B4D905 /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../../miniReto.playground; sourceTree = "<group>"; };
 		89384E351CCDB27E009EDB95 /* pruebaGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pruebaGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89384E381CCDB27E009EDB95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89384E3A1CCDB27E009EDB95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		89384E371CCDB27E009EDB95 /* pruebaGit */ = {
 			isa = PBXGroup;
 			children = (
+				890390561CD6F25400B4D905 /* miniReto.playground */,
 				89384E381CCDB27E009EDB95 /* AppDelegate.swift */,
 				89384E3A1CCDB27E009EDB95 /* ViewController.swift */,
 				89384E3C1CCDB27E009EDB95 /* Main.storyboard */,
@@ -484,6 +486,7 @@
 				89384E5F1CCDB27F009EDB95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89384E601CCDB27F009EDB95 /* Build configuration list for PBXNativeTarget "pruebaGitTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				89384E621CCDB27F009EDB95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89384E631CCDB27F009EDB95 /* Build configuration list for PBXNativeTarget "pruebaGitUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				89384E651CCDB27F009EDB95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
