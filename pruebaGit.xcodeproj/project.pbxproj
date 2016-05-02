@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		890390561CD6F25400B4D905 /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../../miniReto.playground; sourceTree = "<group>"; };
+		890390571CD6F3DC00B4D905 /* miniRetos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = miniRetos.playground; sourceTree = "<group>"; };
 		89384E351CCDB27E009EDB95 /* pruebaGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pruebaGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89384E381CCDB27E009EDB95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89384E3A1CCDB27E009EDB95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -98,13 +98,13 @@
 		89384E371CCDB27E009EDB95 /* pruebaGit */ = {
 			isa = PBXGroup;
 			children = (
-				890390561CD6F25400B4D905 /* miniReto.playground */,
 				89384E381CCDB27E009EDB95 /* AppDelegate.swift */,
 				89384E3A1CCDB27E009EDB95 /* ViewController.swift */,
 				89384E3C1CCDB27E009EDB95 /* Main.storyboard */,
 				89384E3F1CCDB27E009EDB95 /* Assets.xcassets */,
 				89384E411CCDB27E009EDB95 /* LaunchScreen.storyboard */,
 				89384E441CCDB27F009EDB95 /* Info.plist */,
+				890390571CD6F3DC00B4D905 /* miniRetos.playground */,
 			);
 			path = pruebaGit;
 			sourceTree = "<group>";
